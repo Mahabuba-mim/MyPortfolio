@@ -149,6 +149,51 @@ html,body{
 }
 /*------- Service Area End --------*/
 
+/*------- Project Area  Start --------*/
+.project-area{
+	padding-top: 50px;
+	padding-bottom: 150px;
+	background-color: #0C0C0C;
+}
+
+.project-area .heading{
+	border-bottom: 1px solid #83C2FE;
+	margin-bottom: 10px; 
+}
+
+
+.project-area .card .p-thumbnail{
+	width: 100%;
+	height: 200px;
+	
+	border-top-right-radius: 6px;
+	border-top-right-radius: 6px;
+	
+}
+.project-area .card .p-thumbnail img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-top-right-radius: 6px;
+	border-top-right-radius: 6px;
+}
+.project-area .card .card-body{
+	padding: 30px 15px; 
+}
+.project-area .card h6{
+	
+
+}
+.project-area .card a i{
+	font-size: 22px;
+	color: #83C2FE;
+}
+.project-area .card p{
+	font-size: 14px;
+	
+}
+/*------- Project Area  End --------*/
+
 
 /*------- Skill Area Start --------*/
 .skill-area{
